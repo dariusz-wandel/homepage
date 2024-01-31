@@ -21,3 +21,13 @@ h3 {
 p {
     color: #080708;
 }
+
+.section-header {
+    font-size: 32px;
+    background-color: tomato;
+}
+
+.article-header {
+    font-size: 24px;
+    background-color: #06D6A0;
+}
