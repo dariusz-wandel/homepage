@@ -7,9 +7,37 @@ h1 {
 }
 
 h2 {
-	color: #1460AA;
+	color: #1460aa;
 }
 
 section {
 	background: #cdc1f8;
+}
+
+.footer {
+	text-align: center;
+	font-size: 18px;
+}
+
+nav a {
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #333;
+	text-decoration: none;
+	transition: all 1s;
+}
+
+nav a:hover {
+	color: royalblue;
+	font-weight: bold;
+}
+
+.image {
+	width: 250px;
+}
+
+.article-header {
+	font-family: Arial, Helvetica, sans-serif;
+	text-transform: capitalize;
+	color: orangered;
 }
